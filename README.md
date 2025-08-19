@@ -3,7 +3,7 @@
 <br></br>
 :clipboard:<h1>Descripción:</h1>
 <p>Este proyecto es una aplicación llamada Literatura, creada como parte de un desafío de Alura Latam.
-Su objetivo es consultar libros en línea usando una base de datos pública llamada Gutendex y guardar la información en una base de datos propia.</p>
+Su objetivo es consultar libros en línea usando API Gutendex y guardar la información en una base de datos PostgreSQL.</p>
 
 <br></br>
 :wrench:<h1>Funcionalidad:</h1>
