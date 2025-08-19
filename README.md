@@ -25,6 +25,7 @@ Cuando se inicia, aparece un menú con distintas opciones, entre ellas:
 - Se pueden consultar varios libros del mismo autor.
 - Todo queda registrado para acceder más rápido en el futuro.
 
+<br></br>
 :computer:<h1>Tecnologías utilizadas:</h1>
 - `Java`
 - `API Gutendex`
