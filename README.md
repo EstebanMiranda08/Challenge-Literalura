@@ -7,7 +7,6 @@ Su objetivo es consultar libros en línea usando una base de datos pública llam
 
 <br></br>
 :wrench:<h1>Funcionalidad:</h1>
-
 Cuando se inicia, aparece un menú con distintas opciones, entre ellas:
 
 - Buscar un libro por su título (aunque no se escriba completo, el sistema busca coincidencias).
@@ -19,13 +18,12 @@ Cuando se inicia, aparece un menú con distintas opciones, entre ellas:
 - Cada vez que se busca un libro, sus datos (título, autor e idioma) se guardan automáticamente en la base de datos.
 - Luego, esa información se puede volver a consultar sin necesidad de buscarla otra vez en línea.
 - Si se intenta guardar un libro repetido, el sistema no lo permite.
+<br></br>
 
 - `Validaciones:`
 - Si se elige una opción incorrecta del menú, aparece un aviso.
 - Se pueden consultar varios libros del mismo autor.
 - Todo queda registrado para acceder más rápido en el futuro.
-
-<br></br>
 
 :computer:<h1>Tecnologías utilizadas:</h1>
 - `Java`
