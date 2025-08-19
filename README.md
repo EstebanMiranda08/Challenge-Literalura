@@ -20,7 +20,7 @@ Cuando se inicia, aparece un menú con distintas opciones, entre ellas:
 - Si se intenta guardar un libro repetido, el sistema no lo permite.
 <br></br>
 
-- `Validaciones:`
+`Validaciones:`
 - Si se elige una opción incorrecta del menú, aparece un aviso.
 - Se pueden consultar varios libros del mismo autor.
 - Todo queda registrado para acceder más rápido en el futuro.
